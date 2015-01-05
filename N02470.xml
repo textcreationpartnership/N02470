@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002927_0000_0FE647BDF9EF2958"/>
-            <pb facs="tcp:002927_0001_0FE647BF14EED360"/>
+            <pb facs="unknown:002927_0000_0FE647BDF9EF2958"/>
+            <pb facs="unknown:002927_0001_0FE647BF14EED360"/>
             <p>
                <hi>The New-England</hi> PRIMER Enlarged.</p>
             <p>For the more easy attaining the true Reading of ENGLISH To which is added, The Assembly of Divines <hi>CATECHISM</hi>
@@ -127,7 +127,7 @@
       </front>
       <body>
          <div type="Scripture_passages">
-            <pb facs="tcp:002927_0002_0FE698CF1D0C7278"/>
+            <pb facs="unknown:002927_0002_0FE698CF1D0C7278"/>
             <p>
                <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
@@ -169,7 +169,7 @@
             </p>
          </div>
          <div n="alphabet" type="part">
-            <pb facs="tcp:002927_0003_0FE698D34098F440"/>
+            <pb facs="unknown:002927_0003_0FE698D34098F440"/>
             <p>a b c d e f g <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> n o p q r s <gap reason="illegible" resp="#AELD" extent="1 span">
@@ -205,7 +205,7 @@
                </hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0004_0FE698D35B269F60"/>
+               <pb facs="unknown:002927_0004_0FE698D35B269F60"/>
 The <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> English Letters, A B C D E F G H I K L M N O P Q R S T U W X Y Z.</p>
@@ -227,7 +227,7 @@ The <gap reason="illegible" resp="#AELD" extent="1 word">
                <item>ak ek ik ok uk</item>
                <item>al el il ol ul</item>
                <item>
-                  <pb facs="tcp:002927_0005_0FE698D8840F42C8"/>
+                  <pb facs="unknown:002927_0005_0FE698D8840F42C8"/>
 am em im om um</item>
                <item>an en in on un</item>
                <item>ap ep ip op up</item>
@@ -249,7 +249,7 @@ am em im om um</item>
                <item>ra re ri ro ru</item>
                <item>sa se si so su</item>
                <item>
-                  <pb facs="tcp:002927_0006_0FE698D89DC3E368"/>
+                  <pb facs="unknown:002927_0006_0FE698D89DC3E368"/>
 ta te ti tu</item>
             </list>
          </div>
@@ -275,7 +275,7 @@ ta te ti tu</item>
                <item>knew more once pure</item>
             </list>
             <list>
-               <pb facs="tcp:002927_0007_0FE698DAA78CE4A8"/>
+               <pb facs="unknown:002927_0007_0FE698DAA78CE4A8"/>
                <head>Words of two Syllables.</head>
                <item>Ab-sent Absent</item>
                <item>Bold-ly Boldly</item>
@@ -300,7 +300,7 @@ ta te ti tu</item>
                <item>Ka-len-der Kalender.</item>
             </list>
             <list>
-               <pb facs="tcp:002927_0008_0FE698DAC70BAE30"/>
+               <pb facs="unknown:002927_0008_0FE698DAC70BAE30"/>
                <head>Words of four Syllables.</head>
                <item>Ac-com-pa-ny Accompany</item>
                <item>Be-ne-vo-lence Benevolence</item>
@@ -328,7 +328,7 @@ ta te ti tu</item>
          <div n="sentences" type="part">
             <div type="alphabet_of_proverbs">
                <p>
-                  <pb facs="tcp:002927_0009_0FE698E162CC4788"/>
+                  <pb facs="unknown:002927_0009_0FE698E162CC4788"/>
 A <figure/> In <hi>Adam's</hi> 
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -344,7 +344,7 @@ A <figure/> In <hi>Adam's</hi>
                      <desc>〈◊〉</desc>
                   </gap> at School.</p>
                <p>
-                  <pb facs="tcp:002927_0010_0FE698E180104BE0"/>
+                  <pb facs="unknown:002927_0010_0FE698E180104BE0"/>
 G <figure/> As <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> the <hi>Glass</hi> Mans life doth pass.</p>
@@ -361,8 +361,8 @@ G <figure/> As <gap reason="illegible" resp="#AELD" extent="1 word">
                <p>L <figure/> The <hi>Lion</hi> bold The <hi>Lamb</hi> doth hold.</p>
                <p>M <figure/> The <hi>Moon</hi> gives light In time of night.</p>
                <p>
-                  <pb facs="tcp:002927_0011_0FE647BF2DE62710"/>
-                  <pb facs="tcp:002927_0012_0FE698E2E4BEFB80"/>
+                  <pb facs="unknown:002927_0011_0FE647BF2DE62710"/>
+                  <pb facs="unknown:002927_0012_0FE698E2E4BEFB80"/>
 N <figure/> 
                   <hi>Nightingales</hi> sing In Time of Spring.</p>
                <p>O <figure/> The <hi>Royal Oak</hi> it was the Tree That sav'd His Royal Majestic.</p>
@@ -382,7 +382,7 @@ N <figure/>
                <p>S <figure/> 
                   <hi>Samuel</hi> anoints Whom God appoints</p>
                <p>
-                  <pb facs="tcp:002927_0013_0FE698E303E89C40"/>
+                  <pb facs="unknown:002927_0013_0FE698E303E89C40"/>
 T <figure/> 
                   <hi>Time</hi> cuts down all Both great and small.</p>
                <p>U <figure/> 
@@ -402,7 +402,7 @@ T <figure/>
                   <hi>Zacheus</hi> he Did climb the Tree. His Lord to lee.</p>
             </div>
             <div type="litany_of_promises">
-               <pb facs="tcp:002927_0014_0FE698E7795A7AD8"/>
+               <pb facs="unknown:002927_0014_0FE698E7795A7AD8"/>
                <p>Now the Child being entred in his Letters and Spelling, let him learn these and such like Sen<g ref="char:EOLhyphen"/>tences by Heart, whereby be will be both instructed in his Duty, and encouraged in his Learning.</p>
                <list>
                   <head>The Dutiful Child's Promises;</head>
@@ -415,7 +415,7 @@ T <figure/>
                   <item>I will forgive my Enemies, and pray to God for them.</item>
                   <item>I will as much as in me lies keep all God's Holy Commandments.</item>
                   <item>
-                     <pb facs="tcp:002927_0015_0FE698E7968FE100"/>
+                     <pb facs="unknown:002927_0015_0FE698E7968FE100"/>
 I <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
                      </gap> my <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -443,7 +443,7 @@ I <gap reason="illegible" resp="#AELD" extent="2 words">
                <p>FOolishness is bound up in the heart of a Child, but the rod of Correction shall drive it far from him.</p>
                <p>GRieve not the Holy Spirit.</p>
                <p>
-                  <pb facs="tcp:002927_0016_0FE698E9DBBCE038"/>
+                  <pb facs="unknown:002927_0016_0FE698E9DBBCE038"/>
 HOliness becomes God's <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> for ever.</p>
@@ -460,7 +460,7 @@ HOliness becomes God's <gap reason="illegible" resp="#AELD" extent="1 word">
                <p>REmember thy Creator in the days of thy Youth.</p>
                <p>SAlvation belongeth to the Lord.</p>
                <p>
-                  <pb facs="tcp:002927_0017_0FE698E9F559F198"/>
+                  <pb facs="unknown:002927_0017_0FE698E9F559F198"/>
 TRust in God at all times ye people; pour out your hearts before him.</p>
                <p>UPon the wicked God shall rain an horrible Tempest.</p>
                <p>WO to the wicked, it shall be ill with him, for the reward of his hands shall be given him.</p>
@@ -493,7 +493,7 @@ TRust in God at all times ye people; pour out your hearts before him.</p>
          </div>
          <div type="part">
             <div type="Pater_Noster">
-               <pb facs="tcp:002927_0018_0FE698EF1DDF5AA8"/>
+               <pb facs="unknown:002927_0018_0FE698EF1DDF5AA8"/>
                <head>The LORD's Prayer.</head>
                <p>Our Fa-ther which art in Hea-ven, Hal-low-ed be thy Name. Thy king-dom come. Thy will be done on Earth as it is in Hea-ven. Give us this day our d<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -512,7 +512,7 @@ TRust in God at all times ye people; pour out your hearts before him.</p>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> 
-                  <pb facs="tcp:002927_0019_0FE698EF36951178"/>
+                  <pb facs="unknown:002927_0019_0FE698EF36951178"/>
 the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Church, the Com-mu-ni-on of Saints, the For-give-ness of Sins, the Re-sur-rec-ti-on of the Bo-dy, and the Life E-ver-lost-ing A-MEN.</p>
             </div>
             <div type="Ten_commandments">
@@ -531,11 +531,11 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                   </gap> the uniquity of the Fa<g ref="char:EOLhyphen"/>ther upon the Children, unto the <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>.
-<pb facs="tcp:002927_0020_0FE698F16C18DD38"/>
+<pb facs="unknown:002927_0020_0FE698F16C18DD38"/>
                   <gap reason="illegible" resp="#AELD" extent="1 page">
                      <desc>〈1 page〉</desc>
                   </gap>
-                  <pb facs="tcp:002927_0021_0FE69951597B8B58"/>
+                  <pb facs="unknown:002927_0021_0FE69951597B8B58"/>
                   <gap reason="illegible" resp="#AELD" extent="1 page">
                      <desc>〈1 page〉</desc>
                   </gap>
@@ -543,7 +543,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
             </div>
             <div type="moral_verses">
                <lg>
-                  <pb facs="tcp:002927_0022_0FE698F18FEA10F0"/>
+                  <pb facs="unknown:002927_0022_0FE698F18FEA10F0"/>
                   <head>
                      <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
@@ -617,7 +617,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                      <hi>Numbers</hi>
                   </item>
                </list>
-               <pb facs="tcp:002927_0023_0FE698F656348A30"/>
+               <pb facs="unknown:002927_0023_0FE698F656348A30"/>
                <list>
                   <item>Joshua </item>
                   <item>Judges </item>
@@ -660,7 +660,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                   <item>Malachi.</item>
                </list>
                <list>
-                  <pb facs="tcp:002927_0024_0FE698F66FA47110"/>
+                  <pb facs="unknown:002927_0024_0FE698F66FA47110"/>
                   <item>MAtthew </item>
                   <item>Mark </item>
                   <item>Luke </item>
@@ -716,7 +716,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                   </row>
                   <row>
                      <cell>
-                        <pb facs="tcp:002927_0025_0FE698F8C5E7B800"/>iv</cell>
+                        <pb facs="unknown:002927_0025_0FE698F8C5E7B800"/>iv</cell>
                      <cell>4</cell>
                      <cell>four</cell>
                   </row>
@@ -842,7 +842,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                   </row>
                   <row>
                      <cell>
-                        <pb facs="tcp:002927_0026_0FE698F8E131F490"/>xxix</cell>
+                        <pb facs="unknown:002927_0026_0FE698F8E131F490"/>xxix</cell>
                      <cell>29</cell>
                      <cell>twenty nine</cell>
                   </row>
@@ -968,7 +968,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                   </row>
                   <row>
                      <cell>
-                        <pb facs="tcp:002927_0027_0FE698FEA77DB5F0"/>liv</cell>
+                        <pb facs="unknown:002927_0027_0FE698FEA77DB5F0"/>liv</cell>
                      <cell>54</cell>
                      <cell>fifty four</cell>
                   </row>
@@ -1094,7 +1094,7 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
                   </row>
                   <row>
                      <cell>
-                        <pb facs="tcp:002927_0028_0FE698FEC6083468"/>lxxix</cell>
+                        <pb facs="unknown:002927_0028_0FE698FEC6083468"/>lxxix</cell>
                      <cell>79</cell>
                      <cell>seventy nine</cell>
                   </row>
@@ -1208,13 +1208,13 @@ the quick and the dead. I be-lieve in the Ho-ly Ghost, the Ho-ly Ca-tho-lick Chu
          </div>
          <div type="poem">
             <p>
-               <pb facs="tcp:002927_0029_0FE698FFE22DADF8"/>
+               <pb facs="unknown:002927_0029_0FE698FFE22DADF8"/>
                <figure/> MR. <hi>John R<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>gers,</hi> Minister of the Gospel in <hi>London,</hi> was the first Martyr in Q. <hi>Mary's</hi> Reign, and was burnt at <hi>Smith field, Febru<g ref="char:EOLhyphen"/>ary</hi> the <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
                </gap> 1554. His Wife, with nine small Children, and one 
-<pb facs="tcp:002927_0030_0FE699000179CAD8"/>
+<pb facs="unknown:002927_0030_0FE699000179CAD8"/>
 at her Breast, following him to the Stake, with which sorrowful fight he was not in the least daunted, but with wonderful Patience died couragiously for the Gospel of Jesus Christ.</p>
             <p>
                <hi>Some few Days before his Death, he writ the following Exhortation to his Children.</hi>
@@ -1270,7 +1270,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
                   </gap>,</l>
             </lg>
             <lg>
-               <pb facs="tcp:002927_0031_0FE699064BB8CF08"/>
+               <pb facs="unknown:002927_0031_0FE699064BB8CF08"/>
                <l>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
@@ -1321,7 +1321,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
                   </gap>,</l>
             </lg>
             <lg>
-               <pb facs="tcp:002927_0032_0FE69906648A9958"/>
+               <pb facs="unknown:002927_0032_0FE69906648A9958"/>
                <l>And recompense her in her Age</l>
                <l>with the like love again.</l>
                <l>Be always ready for her help,</l>
@@ -1377,7 +1377,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
                </l>
             </lg>
             <lg>
-               <pb facs="tcp:002927_0033_0FE69907D9271E10"/>
+               <pb facs="unknown:002927_0033_0FE69907D9271E10"/>
                <l>And they that do defile the same,</l>
                <l>shall surely come to bought.</l>
                <l>
@@ -1445,7 +1445,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
                <l>with Prayer and with Praise,</l>
             </lg>
             <lg>
-               <pb facs="tcp:002927_0034_0FE69907F43478B0"/>
+               <pb facs="unknown:002927_0034_0FE69907F43478B0"/>
                <l>Begging of him to bless your work,</l>
                <l>and to <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1515,7 +1515,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
                   </gap>,</l>
             </lg>
             <lg>
-               <pb facs="tcp:002927_0035_0FE6990EA23B2348"/>
+               <pb facs="unknown:002927_0035_0FE6990EA23B2348"/>
                <l>My Soul I trust will straight ascend,</l>
                <l>to live with GOD on <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1557,7 +1557,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
                </l>
             </lg>
             <lg>
-               <pb facs="tcp:002927_0036_0FE6990EC0885270"/>
+               <pb facs="unknown:002927_0036_0FE6990EC0885270"/>
                <l>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
@@ -1651,7 +1651,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
             </lg>
          </div>
          <div type="catechism">
-            <pb facs="tcp:002927_0037_0FE6990FE16F99D0"/>
+            <pb facs="unknown:002927_0037_0FE6990FE16F99D0"/>
             <head>The SHORTER CATECHISM Agreed upon by the Reverend Assembly of Divines at Westminster.</head>
             <p>Quest. <hi>WHat is the chief End of Man?</hi>
             </p>
@@ -1661,7 +1661,7 @@ at her Breast, following him to the Stake, with which sorrowful fight he was not
             </p>
             <p>
                <hi>A.</hi> The Word Of God which is contained in the Scriptures of the 
-<pb facs="tcp:002927_0038_0FE6991000785C80"/>
+<pb facs="unknown:002927_0038_0FE6991000785C80"/>
 Old and New Testament, is the only Rule to direct us how we may glorify and enjoy him.</p>
             <p>Q. <hi>What do the Scriptures prin<g ref="char:EOLhyphen"/>cipally teach?</hi>
             </p>
@@ -1683,7 +1683,7 @@ Old and New Testament, is the only Rule to direct us how we may glorify and enjo
             </p>
             <p>
                <hi>A.</hi> There are Three Persons in 
-<pb facs="tcp:002927_0039_0FE69916EA631300"/>
+<pb facs="unknown:002927_0039_0FE69916EA631300"/>
 the God Head, the Father, the Son, and the Holy Ghost, &amp; these <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> are One GOD, the same in Substance, equal in Power &amp; Glory.</p>
@@ -1701,7 +1701,7 @@ the God Head, the Father, the Son, and the Holy Ghost, &amp; these <gap reason="
             </p>
             <p>
                <hi>A.</hi> The Work of Creation is God's Making all things of No<g ref="char:EOLhyphen"/>thing, by the Word of his Power, 
-<pb facs="tcp:002927_0040_0FE69917078504B0"/>
+<pb facs="unknown:002927_0040_0FE69917078504B0"/>
 in the space of six days, at all ve<g ref="char:EOLhyphen"/>ry good.</p>
             <p>Q. <hi>How did God create Man?</hi>
             </p>
@@ -1728,7 +1728,7 @@ in the space of six days, at all ve<g ref="char:EOLhyphen"/>ry good.</p>
                </gap> of Life with him, upon <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> then of perfect. Obedience forbidding him to Eat 
-<pb facs="tcp:002927_0041_0FE699182A732448"/>
+<pb facs="unknown:002927_0041_0FE699182A732448"/>
 of the Free of Knowledge of good and evil upon pain of Death.</p>
             <p>Q. <hi>Did our first Parents continue in the <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1751,7 +1751,7 @@ of the Free of Knowledge of good and evil upon pain of Death.</p>
             <p>
                <hi>A.</hi> The Sin whereby our first Parents fell from the estate where<g ref="char:EOLhyphen"/>in they were created, was their eating the forbidden fruit.</p>
             <p>
-               <pb facs="tcp:002927_0042_0FE699184AB44F88"/>
+               <pb facs="unknown:002927_0042_0FE699184AB44F88"/>
 Q. <hi>Did all Mankind <gap reason="illegible" resp="#AELD" extent="2 words">
                      <desc>〈◊◊〉</desc>
                   </gap>
@@ -1767,7 +1767,7 @@ Q. <hi>Did all Mankind <gap reason="illegible" resp="#AELD" extent="2 words">
             </p>
             <p>
                <hi>A.</hi> The sinfulness of that estate where into Man fell, consists in the Guilt of <hi>Adam's</hi> first Sin, the want of Original Righteousness, and the Corruption of his whole Nature, which is commonly called Original 
-<pb facs="tcp:002927_0043_0FE6991F928D8EB8"/>
+<pb facs="unknown:002927_0043_0FE6991F928D8EB8"/>
 Sin, together with all actual Trans<g ref="char:EOLhyphen"/>gressions which proceed from it.</p>
             <p>Q. <hi>What is the Misery of that estate where into Man feel?</hi>
             </p>
@@ -1783,7 +1783,7 @@ Sin, together with all actual Trans<g ref="char:EOLhyphen"/>gressions which proc
                </gap>
             </p>
             <p>
-               <pb facs="tcp:002927_0044_0FE6991FAB3A5C48"/>
+               <pb facs="unknown:002927_0044_0FE6991FAB3A5C48"/>
 Q. <hi>Who is the Redeemer of Gods Elect?</hi>
             </p>
             <p>
@@ -1802,7 +1802,7 @@ Q. <hi>Who is the Redeemer of Gods Elect?</hi>
                   </gap>?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0045_0FE69920E36E1568"/>
+               <pb facs="unknown:002927_0045_0FE69920E36E1568"/>
                <hi>A.</hi> Christ as our Redeemer exe<g ref="char:EOLhyphen"/>cutes the Office of a Prophet, of a Priest, and of a King, both in his estate of Humiliation &amp; Exaltation.</p>
             <p>Q. <hi>How doth Christ execute the Office of a Prophet?</hi>
             </p>
@@ -1816,7 +1816,7 @@ Q. <hi>Who is the Redeemer of Gods Elect?</hi>
             </p>
             <p>
                <hi>A.</hi> Christ executeth the Office of 
-<pb facs="tcp:002927_0046_0FE69921021A0278"/>
+<pb facs="unknown:002927_0046_0FE69921021A0278"/>
 a King, in Subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our Enemies.</p>
             <p>Q. <hi>Where in did Christ's Humili<g ref="char:EOLhyphen"/>ation consist?</hi>
             </p>
@@ -1831,7 +1831,7 @@ a King, in Subduing us to himself, in ruling and defending us, and in restrainin
                <hi>A.</hi> Christ's Exaltation consisteth in his rising again from the Dead on the third day, in ascending up into Heaven, &amp; <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> at the Right 
-<pb facs="tcp:002927_0047_0FE69926FB75B1E8"/>
+<pb facs="unknown:002927_0047_0FE69926FB75B1E8"/>
 Hand <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
                </gap> the Father, and in coming to judge the World at the last Day.</p>
@@ -1847,7 +1847,7 @@ Hand <gap reason="illegible" resp="#AELD" extent="2 words">
             </p>
             <p>
                <hi>A.</hi> Effectual Calling is the Work of God's Spirit whereby convinc<g ref="char:EOLhyphen"/>ing us of our Sin &amp; Misery, en<g ref="char:EOLhyphen"/>lightning 
-<pb facs="tcp:002927_0048_0FE6992718A1FFF0"/>
+<pb facs="unknown:002927_0048_0FE6992718A1FFF0"/>
 our Minds in the Know<g ref="char:EOLhyphen"/>ledge of Christ, &amp; renewing our Wills, he doth perswade &amp; enable us to embrace Jesus Christ, <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> offered to us in the Gospel.</p>
@@ -1860,7 +1860,7 @@ our Minds in the Know<g ref="char:EOLhyphen"/>ledge of Christ, &amp; renewing ou
             <p>
                <hi>A.</hi> Justification is an act of God's free Grace, wherein he pardoneth all our Sins, and accepteth us as righteous in his fight<g ref="char:punc">▪</g> only for the righteousness of Christ imputed to us, and received by Faith alone.</p>
             <p>
-               <pb facs="tcp:002927_0049_0FE69929528D09E8"/>
+               <pb facs="unknown:002927_0049_0FE69929528D09E8"/>
 Q. <hi>What is Adoption?</hi>
             </p>
             <p>
@@ -1875,7 +1875,7 @@ Q. <hi>What is Adoption?</hi>
             </p>
             <p>
                <hi>A.</hi> The Benefits which in this Life do accompany or flow from Justification, Adoption or Sanctifi<g ref="char:EOLhyphen"/>cation, are assurance of God's love, 
-<pb facs="tcp:002927_0050_0FE699296BE960F8"/>
+<pb facs="unknown:002927_0050_0FE699296BE960F8"/>
 peace of Conscience, <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> Holy Ghost, increase of Grace, &amp; perseverance therein to the <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1893,7 +1893,7 @@ peace of Conscience, <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>•</desc>
                </gap>ay of Judgment, &amp; made perfectly blessed in full en<g ref="char:EOLhyphen"/>joying of God, to all Eternity.</p>
             <p>Q. <hi>What is the Duty which God 
-<pb facs="tcp:002927_0051_0FE69930B0FCAE10"/>
+<pb facs="unknown:002927_0051_0FE69930B0FCAE10"/>
 requires of Man?</hi>
             </p>
             <p>
@@ -1910,7 +1910,7 @@ requires of Man?</hi>
             </p>
             <p>
                <hi>A.</hi> The Sum of the Ten Com<g ref="char:EOLhyphen"/>mandments is, To love the Lord our God with all our Heart, with all our Souls, and with all our 
-<pb facs="tcp:002927_0052_0FE69930CE1E45E8"/>
+<pb facs="unknown:002927_0052_0FE69930CE1E45E8"/>
 Strength, and with all <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1937,7 +1937,7 @@ Strength, and with all <gap reason="illegible" resp="#AELD" extent="1 word">
                <hi>A.</hi> The first Commandment is, <hi>Thou shalt have no other gods before Me.</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0053_0FE6993255B66150"/>
+               <pb facs="unknown:002927_0053_0FE6993255B66150"/>
 Q. <hi>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
@@ -1956,7 +1956,7 @@ Q. <hi>
             </p>
             <p>
                <hi>A.</hi> These Words <hi>(Before me)</hi> in the first Commandment, teach us, 
-<pb facs="tcp:002927_0054_0FE699326E8E6178"/>
+<pb facs="unknown:002927_0054_0FE699326E8E6178"/>
 That God who seeth <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> notice of, and is much dis<g ref="char:EOLhyphen"/>pleased with the Sin of having any other god.</p>
@@ -1966,7 +1966,7 @@ That God who seeth <gap reason="illegible" resp="#AELD" extent="1 span">
                <hi>A.</hi> The second Commandment is, <hi>Thou shalt not make unto thee any Graven Image, or any likeness of any thing that is in Heaven above, or that is in the Earth beneath, or that is in the Water under the Earth: Thou shalt not how down thy self to them, nor serve them, for I the Lord thy God and a jealous God, visiting the Iniquities of the Fathers upon the Children, unto the third and fourth Generation of them that hate me, &amp; shewing mercy unto thousands of them that love me, aud keep my Commandments.</hi>
             </p>
             <p>Q. <hi>What is required in the second 
-<pb facs="tcp:002927_0055_0FE699399E8969D0"/>
+<pb facs="unknown:002927_0055_0FE699399E8969D0"/>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>?</hi>
@@ -1988,7 +1988,7 @@ That God who seeth <gap reason="illegible" resp="#AELD" extent="1 span">
             <p>Q. <hi>Which is the third Commandment?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0056_0FE69939B733AB08"/>
+               <pb facs="unknown:002927_0056_0FE69939B733AB08"/>
                <hi>A.</hi> The third Commandment is, <hi>Thou shalt not take the Name of the Lord thy God in vain; for the Lord will not hold him guiltless that ta<g ref="char:EOLhyphen"/>keth his Name in vain.</hi>
             </p>
             <p>Q. <hi>What is required in the third Commandment?</hi>
@@ -2003,13 +2003,13 @@ That God who seeth <gap reason="illegible" resp="#AELD" extent="1 span">
             </p>
             <p>
                <hi>A.</hi> The Reason annexed to the 
-<pb facs="tcp:002927_0057_0FE6993B1BD9E9D0"/>
+<pb facs="unknown:002927_0057_0FE6993B1BD9E9D0"/>
 Third Commandment is, That however the Breakers of this Com<g ref="char:EOLhyphen"/>mandment may escape Punish<g ref="char:EOLhyphen"/>ment from Men yet the Lord our God will not suffer them to escape his righteous Judgment.</p>
             <p>Q. <hi>Which is the fourth Commandment?</hi>
             </p>
             <p>
                <hi>A.</hi> The fourth Commandment is, <hi>Remember the Sabbath-Day to keep it Holy six Days shalt thou labour &amp; do all thy Work, but the seventh Day is the Sabbath of the Lord thy God, in it thou shalt not do any work, thou nor thy Son, nor thy Daughter, thy Manser<g ref="char:EOLhyphen"/>vant, nor thy Maid servant, nor thy Cattle, not the Stranger that is with<g ref="char:EOLhyphen"/>in thy Gates; for in six Days the Lord made Heaven &amp; Earth, the Sea, and all that in them is, &amp; rested the se<g ref="char:EOLhyphen"/>venth Day, wherefore the Lord blessed 
-<pb facs="tcp:002927_0058_0FE6993B397DDD70"/>
+<pb facs="unknown:002927_0058_0FE6993B397DDD70"/>
 the Sabbath Day, and <gap reason="illegible" resp="#AELD" extent="2 words">
                      <desc>〈◊◊〉</desc>
                   </gap>
@@ -2026,7 +2026,7 @@ the Sabbath Day, and <gap reason="illegible" resp="#AELD" extent="2 words">
             <p>Q. <hi>How is the Sabbath to be sanctified?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0059_0FE6993F52832E78"/>
+               <pb facs="unknown:002927_0059_0FE6993F52832E78"/>
                <hi>A.</hi> 
                <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
@@ -2052,7 +2052,7 @@ the Sabbath Day, and <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊〉</desc>
                </gap> worldly Employ<g ref="char:EOLhyphen"/>ments or Recreations.</p>
             <p>
-               <pb facs="tcp:002927_0060_0FE6993F6B28DFB8"/>
+               <pb facs="unknown:002927_0060_0FE6993F6B28DFB8"/>
 Q. <hi>What are the <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> to the fourth Commandment?</hi>
@@ -2068,7 +2068,7 @@ Q. <hi>What are the <gap reason="illegible" resp="#AELD" extent="1 span">
             </p>
             <p>
                <hi>A.</hi> The fifth Commandment re<g ref="char:EOLhyphen"/>quireth the preserving the Honour &amp; performing the Duties belong<g ref="char:EOLhyphen"/>ing to every one in their several 
-<pb facs="tcp:002927_0061_0FE699419CA0C7F8"/>
+<pb facs="unknown:002927_0061_0FE699419CA0C7F8"/>
                <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
                </gap> Relations, as Superi<g ref="char:EOLhyphen"/>ours, Inferiours, or Equals.</p>
@@ -2084,7 +2084,7 @@ Q. <hi>What are the <gap reason="illegible" resp="#AELD" extent="1 span">
             </p>
             <p>
                <hi>A.</hi> The sixth Commandment is, 
-<pb facs="tcp:002927_0062_0FE69941B6CC84C8"/>
+<pb facs="unknown:002927_0062_0FE69941B6CC84C8"/>
                <hi>Thou shalt not Kill.</hi>
             </p>
             <p>Q. <hi>What is required in the sixth Commandment?</hi>
@@ -2103,7 +2103,7 @@ Q. <hi>What are the <gap reason="illegible" resp="#AELD" extent="1 span">
             <p>Q. <hi>What is required in the se<g ref="char:EOLhyphen"/>venth Commandment?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0063_0FE69949A42547D8"/>
+               <pb facs="unknown:002927_0063_0FE69949A42547D8"/>
                <hi>A.</hi> The seventh Commandment requireth the preservation of our own, and our Neighbour's Chasti<g ref="char:EOLhyphen"/>ty, in Heart, Speech &amp; Behaviour.</p>
             <p>Q. <hi>What is forbidden in the se<g ref="char:EOLhyphen"/>venth Commandment?</hi>
             </p>
@@ -2121,7 +2121,7 @@ Q. <hi>What are the <gap reason="illegible" resp="#AELD" extent="1 span">
             <p>Q. <hi>What is forbidden in the eighth Commandment?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0064_0FE69949C218C9F8"/>
+               <pb facs="unknown:002927_0064_0FE69949C218C9F8"/>
                <hi>A.</hi> The eighth Commandment forbiddeth whatsoever doth, of may unjustly hinder our own, <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> our Neighbours Wealth or out<g ref="char:EOLhyphen"/>ward Estate.</p>
@@ -2140,7 +2140,7 @@ Q. <hi>What are the <gap reason="illegible" resp="#AELD" extent="1 span">
             </p>
             <p>
                <hi>A.</hi> The ninth Commandment for<g ref="char:EOLhyphen"/>biddeth 
-<pb facs="tcp:002927_0065_0FE6994AE51BDCD8"/>
+<pb facs="unknown:002927_0065_0FE6994AE51BDCD8"/>
 whatsoever is prejudici<g ref="char:EOLhyphen"/>al to Truth, or injurious to our own us our Neighbours good Name.</p>
             <p>Q. <hi>Which is the Tenth Commandment?</hi>
             </p>
@@ -2159,7 +2159,7 @@ whatsoever is prejudici<g ref="char:EOLhyphen"/>al to Truth, or injurious to our
                </hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0066_0FE6994B042059C8"/>
+               <pb facs="unknown:002927_0066_0FE6994B042059C8"/>
                <hi>A.</hi> The Tenth Commandment in for<g ref="char:EOLhyphen"/>biddeth all Discontentment with our own estate, envying or griev<g ref="char:EOLhyphen"/>ing at the good of our Neighbour, and all inordinate motions &amp; af<g ref="char:EOLhyphen"/>fections to any thing that is his.</p>
             <p>Q. <hi>Is any Man able perfectly to keep the Commandments of God?</hi>
             </p>
@@ -2183,7 +2183,7 @@ whatsoever is prejudici<g ref="char:EOLhyphen"/>al to Truth, or injurious to our
                   </gap> deserve?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0067_0FE6995140C5D488"/>
+               <pb facs="unknown:002927_0067_0FE6995140C5D488"/>
                <hi>A.</hi> Every Sin deserveth God's Wrath and Curse, both in this Life, and that which is to come.</p>
             <p>Q. <hi>What doth God require of us, that we may escape his Wrath and Curse, due unto us for Sin?</hi>
             </p>
@@ -2199,7 +2199,7 @@ whatsoever is prejudici<g ref="char:EOLhyphen"/>al to Truth, or injurious to our
                </hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0068_0FE647BDE5FEF978"/>
+               <pb facs="unknown:002927_0068_0FE647BDE5FEF978"/>
                <hi>A.</hi> Repentance <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Life, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -2212,7 +2212,7 @@ whatsoever is prejudici<g ref="char:EOLhyphen"/>al to Truth, or injurious to our
             <p>Q. <hi>How is the word made effectual to Salvation?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0069_0FE69952B8B46350"/>
+               <pb facs="unknown:002927_0069_0FE69952B8B46350"/>
                <hi>A.</hi> The Spirit of God maketh the Reading, but especially the Preaching of the Word an effectu<g ref="char:EOLhyphen"/>al Means of Convincing &amp; Con<g ref="char:EOLhyphen"/>verting Sinners, and of building them up in Holiness &amp; Comfort, through Faith unto Salvation.</p>
             <p>Q. <hi>How is the Word to be Read and Heard that it may become effectual to Salvation?</hi>
             </p>
@@ -2222,7 +2222,7 @@ whatsoever is prejudici<g ref="char:EOLhyphen"/>al to Truth, or injurious to our
             </p>
             <p>
                <hi>A.</hi> The Sacraments become ef<g ref="char:EOLhyphen"/>fectual Means of Salvation, not 
-<pb facs="tcp:002927_0070_0FE69952D7355090"/>
+<pb facs="unknown:002927_0070_0FE69952D7355090"/>
 from any vertue <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> that doth administer them, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -2242,7 +2242,7 @@ from any vertue <gap reason="illegible" resp="#AELD" extent="1 span">
             </p>
             <p>
                <hi>A.</hi> Baptism is a Sacrament, where<g ref="char:EOLhyphen"/>in by washing with Water in the 
-<pb facs="tcp:002927_0071_0FE6995972DC85E8"/>
+<pb facs="unknown:002927_0071_0FE6995972DC85E8"/>
                <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>, &amp; of the Son <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -2262,7 +2262,7 @@ from any vertue <gap reason="illegible" resp="#AELD" extent="1 span">
             </p>
             <p>
                <hi>A.</hi> The Lord's Supper is a Sacra<g ref="char:EOLhyphen"/>ment, wherein by giving and re<g ref="char:EOLhyphen"/>ceiving Bread &amp; Wine according to Christ Appointment, His 
-<pb facs="tcp:002927_0072_0FE699598FE634A8"/>
+<pb facs="unknown:002927_0072_0FE699598FE634A8"/>
 Death is shewed <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -2283,7 +2283,7 @@ Death is shewed <gap reason="illegible" resp="#AELD" extent="1 word">
             <p>Q. <hi>What is Prayer?</hi>
             </p>
             <p>
-               <pb facs="tcp:002927_0073_0FE6995AE03DBD08"/>
+               <pb facs="unknown:002927_0073_0FE6995AE03DBD08"/>
                <hi>A.</hi> 
                <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
@@ -2307,7 +2307,7 @@ Death is shewed <gap reason="illegible" resp="#AELD" extent="1 word">
                <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
                </gap> us to draw near to God with all holy Reve<g ref="char:EOLhyphen"/>rence, 
-<pb facs="tcp:002927_0074_0FE6995AFA148BA8"/>
+<pb facs="unknown:002927_0074_0FE6995AFA148BA8"/>
 and Confidence, as <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> to a Father, able &amp; ready to <gap reason="illegible" resp="#AELD" extent="1 span">
@@ -2349,7 +2349,7 @@ and Confidence, as <gap reason="illegible" resp="#AELD" extent="1 span">
                </gap>
             </p>
             <p>
-               <pb facs="tcp:002927_0075_0FE6996209D92DE0"/>
+               <pb facs="unknown:002927_0075_0FE6996209D92DE0"/>
                <hi>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
